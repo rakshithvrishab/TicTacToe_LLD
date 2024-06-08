@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42f9770-bc20-47cc-9d05-6970a45b3497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/TicTacToeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/factories/BotPlayingStrategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/factories/PlayerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/Bot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/BotDifficultyLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/CellState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/models/PlayerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/strategies/botplayingstrategy/BotPlayingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/strategies/botplayingstrategy/RandomBotPlayingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/strategies/gamewinningstrategy/GameWinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raksh/tictactoe/strategies/gamewinningstrategy/OrderOneWinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidGameBuildException.java" afterDir="false" />
+    <list default="true" id="e42f9770-bc20-47cc-9d05-6970a45b3497" name="Changes" comment="cmt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rakshithvrishab"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rakshithvrishab&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rakshithvrishab/TicTacToe_LLD_Practice.git",
-    "accountId": "c49bf691-e903-47b7-82b0-916524589fa8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rakshithvrishab/TicTacToe_LLD_Practice.git&quot;,
+    &quot;accountId&quot;: &quot;c49bf691-e903-47b7-82b0-916524589fa8&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -142,6 +117,15 @@
       <updated>1673016880259</updated>
       <workItem from="1673016881394" duration="1707000" />
     </task>
+    <task id="LOCAL-00001" summary="cmt">
+      <option name="closed" value="true" />
+      <created>1717849265815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717849265815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cmt" />
+    <option name="LAST_COMMIT_MESSAGE" value="cmt" />
   </component>
 </project>
